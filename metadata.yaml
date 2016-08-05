@@ -1,0 +1,35 @@
+_repo: Les-grands-orateurs-de-la-R-volution--13-Mirabeau-Vergniaud-Danton-Robespierre_8822
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Aulard, F.-A. (François-Alphonse)
+    aliases:
+    - Aulard, F.-A. (Francois-Alphonse)
+    - Aulard, François Victor Alphonse
+    - Aulard, Alphonse
+    birthdate: 1849
+    deathdate: 1928
+    gutenberg_agent_id: '2894'
+    url: http://www.gutenberg.org/2009/agents/2894
+    wikipedia: http://en.wikipedia.org/wiki/François_Victor_Alphonse_Aulard
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2005-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8822'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'Robespierre, Maximilien, 1758-1794'
+- !lcsh 'Vergniaud, Pierre-Victurnien, 1753-1793'
+- !lcsh 'France -- History -- Revolution, 1789-1799 -- Biography'
+- !lcsh 'Danton, Georges Jacques, 1759-1794'
+- !lcsh 'Orators -- France -- 18th century -- Biography'
+- !lcsh 'Mirabeau, Victor de Riquetti, marquis de, 1715-1789'
+- GITenberg
+title: "Les grands orateurs de la Révolution\r\nMirabeau, Vergniaud, Danton, Robespierre"
+url: http://www.gutenberg.org/ebooks/8822

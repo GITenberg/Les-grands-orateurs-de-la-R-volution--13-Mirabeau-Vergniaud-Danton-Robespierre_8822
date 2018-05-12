@@ -1,5 +1,8 @@
 _repo: Les-grands-orateurs-de-la-R-volution--13-Mirabeau-Vergniaud-Danton-Robespierre_8822
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Aulard, F.-A. (François-Alphonse)
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2894
     wikipedia: http://en.wikipedia.org/wiki/François_Victor_Alphonse_Aulard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8822#Les-grands-orateurs-de-la-R-volution--13-Mirabeau-Vergniaud-Danton-Robespierre
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2005-09-01'
 gutenberg_type: Text
